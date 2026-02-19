@@ -137,3 +137,9 @@ http://<server-ip>/
 
 - Folder tree open/close state is stored in `localStorage`.
 - If you edit lots of docs while the server is running, restart Flask to refresh the sidebar tree.
+
+---
+
+## Preview
+
+![My Docs](preview.png)  
